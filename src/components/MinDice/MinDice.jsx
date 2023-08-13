@@ -15,7 +15,7 @@ const MinDice = () => {
           <select
           key={option.id}
           id={option.id}
-          className='w-11 h-10 border-2 border-[#e056fd] rounded-lg'
+          className='custom-select w-11 h-10 border-2 border-[#e056fd] rounded-lg'
           onChange={e => handleUpdateResult('min', option.id, e.target.value)}
         >
           <option value ='' hidden></option>

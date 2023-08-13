@@ -39,7 +39,7 @@ const SimpleDiceFirstHand = () => {
           <select 
             key={option.id} 
             id={option.id} 
-            className={`w-11 h-10 border-2 border-[#e056fd] rounded-lg`}
+            className={`custom-select w-11 h-10 border-2 border-[#e056fd] rounded-lg`}
             onChange={e => handleUpdateResult('firstHand', option.id, e.target.value)}
             >
             <option values = '' hidden></option>
