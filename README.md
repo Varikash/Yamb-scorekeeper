@@ -1,8 +1,13 @@
-# React + Vite
+#Yamb scorekeeper
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Небольшой пет проект для разминки**
 
-Currently, two official plugins are available:
+## Описание
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Мы с друзьями любим играть в игру под названием Ямб. Суть игры в выкидывании 5 кубиков и набота определенных комбинаций. Для записи очков используется специальная табличка. Было принято решение накидать простой сайт под телефон, где можно вбивать очки, а форма будет делать автоматический подсчет.
+
+**Стек:**
+- [React](https://react.dev/)
+- [Redux](https://react-redux.js.org/)
+- [redux-toolkit](https://redux-toolkit.js.org/)
+- [vite.js] (https://vitejs.dev/) 
