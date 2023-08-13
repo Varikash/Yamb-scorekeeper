@@ -11,3 +11,8 @@
 - [Redux](https://react-redux.js.org/)
 - [redux-toolkit](https://redux-toolkit.js.org/)
 - [vite.js](https://vitejs.dev/) 
+
+Демо: https://dreamy-marzipan-e6addd.netlify.app/
+
+*Автор: Варикаш Николай*   
+*Контакты: n.varicash@gmail.com*  
