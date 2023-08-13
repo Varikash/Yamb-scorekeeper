@@ -10,4 +10,4 @@
 - [React](https://react.dev/)
 - [Redux](https://react-redux.js.org/)
 - [redux-toolkit](https://redux-toolkit.js.org/)
-- [vite.js] (https://vitejs.dev/) 
+- [vite.js](https://vitejs.dev/) 
