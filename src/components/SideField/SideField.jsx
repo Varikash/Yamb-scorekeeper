@@ -23,7 +23,7 @@ const SideField = () => {
       <span className='w-11 h-10 border-[#e056fd] border-2 font-bold text-center flex justify-center items-center text-9px bg-white rounded-lg'>SKALA</span>
       <span className='w-11 h-10 border-[#e056fd] border-2 font-bold text-center flex justify-center items-center text-9px bg-white rounded-lg'>FULL 3+2 (+40)</span>
       <span className='w-11 h-10 border-[#e056fd] border-2 font-bold text-center flex justify-center items-center text-9px bg-white rounded-lg'>POKER 4+1 (+50)</span>
-      <span className='w-11 h-10 border-[#e056fd] border-2 font-bold text-center flex justify-center items-center text-9px bg-white rounded-lg'>YAMB <br /> 5 <br /> (+50)</span>
+      <span className='w-11 h-10 border-[#e056fd] border-2 font-bold text-center flex justify-center items-center text-9px bg-white rounded-lg'>YAMB <br /> 5 <br /> (+60)</span>
       <span className='w-11 h-10 border-[#e056fd] border-2 whitespace-normal text-9px font-bold text-center flex justify-center items-center bg-[#ffbe76] rounded-lg'>Total</span>
     </div>
     
